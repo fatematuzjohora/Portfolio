@@ -1,0 +1,77 @@
+[
+  {
+    "_id": 1,
+    "name": "Skyland Computer",
+    "img": "https://i.ibb.co/r4RZ0FG/skyland-computer.png",
+    "description": "User Management Dashboard Authentication Firebase, Data Management By MongoDB & API through ExpressJS",
+    "features":[
+      "User Management Dashboard",
+      "Authentication By Firebase",
+      "Data Management By MongoDB",
+      "API through Express Js."
+    ],
+    "images":[
+      "https://i.ibb.co/wRK10cz/banner.png",
+      "https://i.ibb.co/tC9vPLV/product.png",
+      "https://i.ibb.co/NxV8LHy/inventory.png",
+      "https://i.ibb.co/C0jZM6M/mnageinventory.png"
+    ],
+    
+    "usedTechnologies":[
+      {"FrontEnd": ["ReactJs", "React Router", "React Hooks","Tailwind", "Firebase"]},
+      {"BackEnd": ["NodeJs(ExpressJS)", "MongoDB", "jwt","Dotenv","Nodemon", "Stripe", "Cors"]}
+    ],
+    "liveUrl": "https://skyland-computer.netlify.app/",
+    "clientCode": "https://github.com/fatematuzjohora/skyland-computer-client-side",
+    "serverCode": "https://github.com/fatematuzjohora/skyland-computer-server-side"
+  },
+    {
+      "_id": 2,
+      "name": "Make Choices",
+      "img": "https://i.ibb.co/WgmS2Dg/make-choices.png",
+      "description": "Different Dashboard for Users & Admin, Authentication by Firebase, Data Management By MongoDB & API through....",
+      "url": "https://make-choices.netlify.app/",
+      "features":[
+        "Different Dashboard for Users & Admin",
+        "Authentication By Firebase",
+        "Data Management By MongoDB",
+        "API through Express Js."
+      ],
+      "images":[
+        "https://i.ibb.co/yPJYx0c/banner.png",
+        "https://i.ibb.co/ydMnTfd/products.png",
+        " https://i.ibb.co/TcQzm78/dashboard.png",
+        "https://i.ibb.co/jT5CT5F/summery.png"
+      ],
+      "usedTechnologies":[
+        {"FrontEnd": ["ReactJs", "React Router", "React Hooks","Tailwind", "Firebase"]},
+        {"BackEnd": ["NodeJs(ExpressJS)", "MongoDB", "jwt","Dotenv","Nodemon", "Stripe", "Cors"]}
+      ],
+      "liveUrl": "https://make-choices.netlify.app/",
+      "clientCode": "https://github.com/fatematuzjohora/make-choices-client-side",
+      "serverCode": "https://github.com/fatematuzjohora/make-choices-server-side"
+    },
+    {
+      "_id": 3,
+      "name": "Learn Pick",
+      "img": "https://i.ibb.co/3YpJLMC/learn-pick.png",
+      "description": "UI design by React Bootstrap, Authentication By Firebase, UI & UX user friendly.",
+      "features": [
+        "Chekout Route only for Authentic user",
+        "UI & UX user friendly. Fully responsive.",
+        "UI design by React Bootstrap",
+        "Authentication By Firebase" 
+      ],
+      "images":[
+        "https://i.ibb.co/mvzX9zg/banner.png",
+        "https://i.ibb.co/cT1HCJS/landing.png",
+        "https://i.ibb.co/12F7zPp/products.png",
+        "https://i.ibb.co/x6ByQW0/blogs.png"
+      ],
+      "usedTechnologies":[
+        {"FrontEnd": ["ReactJs", "React Router", "React Hooks","Tailwind", "Firebase"]}
+      ],
+      "liveUrl": "https://learnpick-d5bf3.web.app/",
+      "clientCode": "https://github.com/fatematuzjohora/learnpick"
+    }
+  ]
