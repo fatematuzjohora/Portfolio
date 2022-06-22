@@ -85,6 +85,11 @@ const ClientsReviews = () => {
           <span class="visually-hidden">Next</span>
         </button>
       </div>
+      <div className=" flex justify-center items-center">
+        <button className="text-center btn text-white mt-1 md:mt-3 px-6 py-2 border-2 border-blue-400  font-medium text-xs leading-tight uppercase rounded-lg hover:bg-blue-800 hover:bg-opacity-95 hover:text-white focus:outline-none focus:ring-0 transition duration-150 ease-in">
+          Add Review
+        </button>
+      </div>
     </div>
   );
 };

@@ -9,7 +9,7 @@ const Projects = () => {
       .then((data) => setPojects(data));
   }, []);
   return (
-    <div className="bg-slate-800">
+    <div>
       <h1
         className="text-2xl font-semibold text-white text-center 
        pb-5 pt-6 font-sans"

@@ -11,10 +11,10 @@
       "API through Express Js."
     ],
     "images":[
-      "https://i.ibb.co/wRK10cz/banner.png",
-      "https://i.ibb.co/tC9vPLV/product.png",
-      "https://i.ibb.co/NxV8LHy/inventory.png",
-      "https://i.ibb.co/C0jZM6M/mnageinventory.png"
+      "https://i.ibb.co/FzM8dZV/banner.png",
+      "https://i.ibb.co/rk7Cj9Z/dashboard.png",
+      "https://i.ibb.co/GJH16W7/inventory.png",
+      "https://i.ibb.co/sj3cq5D/product.png"
     ],
     
     "usedTechnologies":[
@@ -38,10 +38,10 @@
         "API through Express Js."
       ],
       "images":[
-        "https://i.ibb.co/yPJYx0c/banner.png",
-        "https://i.ibb.co/ydMnTfd/products.png",
-        " https://i.ibb.co/TcQzm78/dashboard.png",
-        "https://i.ibb.co/jT5CT5F/summery.png"
+        "https://i.ibb.co/KmZdn4g/Dashboard.png",
+        "https://i.ibb.co/SVTWjx4/banner.png",
+        "https://i.ibb.co/WcPSvXb/product.png",
+        "https://i.ibb.co/4FPmFF1/summary.png"
       ],
       "usedTechnologies":[
         {"FrontEnd": ["ReactJs", "React Router", "React Hooks","Tailwind", "Firebase"]},
@@ -63,10 +63,10 @@
         "Authentication By Firebase" 
       ],
       "images":[
-        "https://i.ibb.co/mvzX9zg/banner.png",
-        "https://i.ibb.co/cT1HCJS/landing.png",
-        "https://i.ibb.co/12F7zPp/products.png",
-        "https://i.ibb.co/x6ByQW0/blogs.png"
+        "https://i.ibb.co/Hh0HP5Z/blogs.png",
+        "https://i.ibb.co/V9JVdc8/login.png",
+        "https://i.ibb.co/DC2QKJM/banner.png",
+        "https://i.ibb.co/BsQyhPP/product.png"
       ],
       "usedTechnologies":[
         {"FrontEnd": ["ReactJs", "React Router", "React Hooks","Tailwind", "Firebase"]}
