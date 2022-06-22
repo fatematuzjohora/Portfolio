@@ -71,7 +71,7 @@ navbar navbar-expand-lg navbar-light
                 <li class="nav-item px-2">
                   <Link
                     to={"/home"}
-                    class="nav-link rounded-xl  w-12 p-2 text-orange-500 hover:text-orange-700 focus:bg-gray-700 "
+                    class="nav-link rounded-xl  w-12 p-2 text-white hover:text-orange-700 focus:bg-gray-700 "
                     aria-current="page"
                   >
                     Home
@@ -79,7 +79,7 @@ navbar navbar-expand-lg navbar-light
                 </li>
                 <li class="nav-item pr-2">
                   <Link
-                    class="nav-link rounded-xl  w-12 p-2 text-orange-500 hover:text-orange-700 focus:bg-gray-700 "
+                    class="nav-link rounded-xl  w-12 p-2 text-white hover:text-orange-700 focus:bg-gray-700 "
                     to={"#contact"}
                   >
                     Contact Me
@@ -87,7 +87,7 @@ navbar navbar-expand-lg navbar-light
                 </li>
                 <li class="nav-item pr-2">
                   <Link
-                    class="nav-link rounded-xl  w-12 p-2 text-orange-500 hover:text-orange-700 focus:bg-gray-700 "
+                    class="nav-link rounded-xl  w-12 p-2 text-white hover:text-orange-700 focus:bg-gray-700 "
                     to={"/blogs"}
                   >
                     Blogs
@@ -95,7 +95,7 @@ navbar navbar-expand-lg navbar-light
                 </li>
                 <li class="nav-item pr-2">
                   <Link
-                    class="nav-link rounded-xl  w-12 p-2 text-orange-500 hover:text-orange-700 focus:bg-gray-700 "
+                    class="nav-link rounded-xl  w-12 p-2 text-white hover:text-orange-700 focus:bg-gray-700 "
                     to={"/aboutMe"}
                   >
                     About Me
