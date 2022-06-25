@@ -1,6 +1,8 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 const ClientsReviews = () => {
+  const navigate = useNavigate();
   return (
     <div className=" p-5 md:p-20">
       <h1
@@ -86,7 +88,10 @@ const ClientsReviews = () => {
         </button>
       </div>
       <div className=" flex justify-center items-center">
-        <button className="text-center btn text-white mt-1 md:mt-3 px-6 py-2 border-2 border-blue-400  font-medium text-xs leading-tight uppercase rounded-lg hover:bg-blue-800 hover:bg-opacity-95 hover:text-white focus:outline-none focus:ring-0 transition duration-150 ease-in">
+        <button
+          onClick={() => navigate("/blogs")}
+          className="text-center btn text-white mt-1 md:mt-3 px-6 py-2 border-2 border-blue-400  font-medium text-xs leading-tight uppercase rounded-lg hover:bg-blue-800 hover:bg-opacity-95 hover:text-white focus:outline-none focus:ring-0 transition duration-150 ease-in"
+        >
           Add Review
         </button>
       </div>

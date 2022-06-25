@@ -1,10 +1,11 @@
 import React from "react";
+import BackButton from "./Share/BackButton";
 
 const AboutMe = () => {
   return (
     <div className="py-16 px-14 flex items-center justify-center h-screen">
       <div
-        className=" bg-cover flex flex-col items-center justify-center p-10 max-w-xl text-white"
+        className=" bg-cover flex flex-col items-center justify-center px-10 pt-10 pb-5 max-w-xl text-white"
         style={{ backgroundColor: "rgba(50, 123, 233, 0.1)" }}
       >
         <img
@@ -13,15 +14,13 @@ const AboutMe = () => {
           alt="Avatar"
         />
         <h1 className="text-2xl font-bold mb-4"> Fatema Tuz-Johora </h1>
-        <p>
-          <span className="font-bold">
-            MY DREAM AND GOALS FOR THE NEXT SIX MONTH:
-          </span>{" "}
-          My dream for the next six months is to establish myself as a web
-          developer and for this I am working as my level best, hopefully in
-          next six months I will be able to fulfill my dream.Keep me in your
-          prayer.
+        <p className="mb-6 ">
+          <span className="font-bold">Let's introduce myself:</span> I'd
+          introduce myself as a Passionate coder.I hope to find what I am
+          looking for in your startup, and I am ready to bring onboard
+          everything I've learned.
         </p>
+        <BackButton />
       </div>
     </div>
   );
