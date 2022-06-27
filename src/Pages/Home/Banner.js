@@ -39,7 +39,7 @@ const Banner = () => {
           </p>
           <a
             href={
-              "https://drive.google.com/file/d/1K39NDnZXHXXV-7kj8Sw5Bqa5G8FSAD95/view"
+              "https://drive.google.com/file/d/1PHhDlmoQefyDQxRBjobiWVQ-HFAiTaqY/view?usp=sharing"
             }
             target={"blank"}
             // onClick={() => navigate("/resume")}
